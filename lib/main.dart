@@ -77,9 +77,9 @@ class _HomePageState extends State<HomePage> {
             }, child: const Text("Read All Data")),
 
 
-            ElevatedButton(onPressed: (){
-              Hive.box('database1').clear();
-            }, child: const  Text("Delete BOX")),
+            // ElevatedButton(onPressed: (){
+            //   Hive.box('database1').clear();
+            // }, child: const  Text("Delete BOX")),
           ],
         ),
       ),
