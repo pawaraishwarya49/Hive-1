@@ -1,6 +1,5 @@
 # hiveeg
-
-A new Flutter project.
+The demonstartion of using Hive database package
 
 ## Getting Started
 
